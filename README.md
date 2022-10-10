@@ -32,7 +32,7 @@ En este modelo se obtuvo la predicción de un 0.94 y se obtuvo en la matriz de c
 
 En este modelo se obtuvo la predicción de un 0.97 y se obtuvo en la matriz de confusión con 1 falso positivo y 4 falsos negativos.
 
-##CONCLUSIÓN
+## CONCLUSIÓN
 
 Como se puede observar el que tiene menos casos de falsos negativos es el modelo de regresión logistica y de igual manera la predicción es superior a los demás modelos.
 
